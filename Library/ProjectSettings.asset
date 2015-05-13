@@ -12,7 +12,7 @@ PlayerSettings:
   targetResolution: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: UITest
+  productName: UGUItoCallBack
   cloudProjectId: 
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -254,7 +254,8 @@ PlayerSettings:
   psp2InfoBarColor: 0
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    16: 
   metroPackageName: UITest
   metroPackageLogo: 
   metroPackageLogo140: 
@@ -378,7 +379,7 @@ PlayerSettings:
   WebGL::ScriptingBackend: 1
   WebGL::audioCompressionFormat: 4
   WebGL::exceptionSupport: 0
-  WebGL::memorySize: 256
+  WebGL::memorySize: 64
   iOS::Architecture: 2
   iOS::ScriptingBackend: 0
   boolPropertyNames:
